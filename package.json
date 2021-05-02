@@ -10,7 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/s-faisal/fill-in-the-blanks.git"
   },
-  "keywords": [],
+  "keywords": [
+    "fill-in-the-blanks",
+    "fillintheblanks"
+  ],
   "author": "Faisal Shaikh",
   "license": "ISC",
   "bugs": {
