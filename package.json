@@ -1,0 +1,20 @@
+{
+  "name": "fill-in-the-blanks",
+  "version": "1.0.0",
+  "description": "Generates all possible combination of (+,-) that can take place between given numbers and return the one that is closest to 0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s-faisal/fill-in-the-blanks.git"
+  },
+  "keywords": [],
+  "author": "Faisal Shaikh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s-faisal/fill-in-the-blanks/issues"
+  },
+  "homepage": "https://github.com/s-faisal/fill-in-the-blanks#readme"
+}
